@@ -1,13 +1,10 @@
 # Data Analyst 
 
-
 ## About 
 
 Entry-level data analytics professional; highly motivated individual who has completed and continuing to further education in programming languages and data analysis skills to pivot a career into the field of data analytics and data science; created a working portfolio to demonstrate proficiency in data analytics that is hosted on Github
 
-
 #### Technical Skills: Google Sheets, Excel, Tableau, SQL, R, Python, JSON, XML, Javascript
-
 
 ## Education
 
@@ -22,7 +19,6 @@ Used the Python language to learn data structures, networked application program
 **University of California, Irvine (_June 2017_)**
 
 Business Economics, B.A.; Political Science, B.A. 
-
 
 ## Work Experience 
 
