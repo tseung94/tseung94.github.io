@@ -42,4 +42,3 @@ Prepared legal documents such as a Writ of Execution or Abstract of Judgment usi
 
 Analyzed data for a fictional bike-share company using real world primary data from Divvy. The task was to transform the data into useable analysis in order to gather insight on rider patterns and preferences; this analysis would then provide the fictional company with deliverable actions that can be taken to convert casual riders into annual members. The anaylsis was completed using R and Tableau to share the findings via data visualization. 
 
-![Bike Share](assets/Picture.png)
