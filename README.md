@@ -28,7 +28,7 @@ Analyzed data for a fictional bike-share company using real world primary data f
 
 **Bellabeat Case Study Using BigQuery and Tableau**
 
-![image](https://github.com/user-attachments/assets/446dc7e5-f05a-4459-be58-c443b81a3a4a)
+![image](https://github.com/user-attachments/assets/968ecba2-8348-4396-9a7a-a1efb9d329b2)
 
 [Publication](https://github.com/tseung94/Google_Capstone_SQL)
 
