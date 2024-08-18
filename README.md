@@ -1,8 +1,6 @@
 # Data Analyst 
 
-## About 
-
-
+Technical Skills: Google Sheets, Excel, Tableau, SQL, R, Python, JSON, XML, Javascript
 
 ## Education
 
