@@ -2,9 +2,7 @@
 
 ## About 
 
-Entry-level data analytics professional; highly motivated individual who has completed and continuing to further education in programming languages and data analysis skills to pivot a career into the field of data analytics and data science; created a working portfolio to demonstrate proficiency in data analytics that is hosted on Github
 
-#### Technical Skills: Google Sheets, Excel, Tableau, SQL, R, Python, JSON, XML, Javascript
 
 ## Education
 
