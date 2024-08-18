@@ -20,11 +20,15 @@ Business Economics, B.A.; Political Science, B.A.
 
 **Bike-Share Analysis Using R and Tableau** 
 
+![image](https://github.com/user-attachments/assets/525d1a5c-0b8a-495d-8109-566e637000c5)
+
 [Publication](https://rpubs.com/tseung94/1187589)
 
 Analyzed data for a fictional bike-share company using real world primary data from Divvy. The task was to transform the data into useable analysis in order to gather insight on rider patterns and preferences; this analysis would then provide the fictional company with deliverable actions that can be taken to convert casual riders into annual members. The anaylsis was completed using R and Tableau to share the findings via data visualization. 
 
 **Bellabeat Case Study Using BigQuery and Tableau**
+
+![image](https://github.com/user-attachments/assets/446dc7e5-f05a-4459-be58-c443b81a3a4a)
 
 [Publication](https://github.com/tseung94/Google_Capstone_SQL)
 
