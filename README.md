@@ -20,6 +20,20 @@ Used the Python language to learn data structures, networked application program
 
 Business Economics, B.A.; Political Science, B.A. 
 
+## Projects 
+
+**Bike-Share Analysis Using R and Tableau** 
+
+[Publication](https://rpubs.com/tseung94/1187589)
+
+Analyzed data for a fictional bike-share company using real world primary data from Divvy. The task was to transform the data into useable analysis in order to gather insight on rider patterns and preferences; this analysis would then provide the fictional company with deliverable actions that can be taken to convert casual riders into annual members. The anaylsis was completed using R and Tableau to share the findings via data visualization. 
+
+**Bellabeat Case Study Using BigQuery and Tableau**
+
+[Publication](https://github.com/tseung94/Google_Capstone_SQL)
+
+Bellabeat is a company that specialized in health-focused smart products. It has an application that measures users data on activity, sleep, stress, menstrual cycle, and mindfulness habits. I have been tasked as a junior data analyst on the marketing analytics team to gain insight on how users are using their device. I identified trends of Bellabeat users to make recommendations for improvements on the application alongside marketing strategies to increase customer satisfaction and outreach. 
+
 ## Work Experience 
 
 **Accounts Receivable/Account Manager @ Ta Chen, International, Long Beach, CA (_June 2018 to Present_)**
@@ -30,10 +44,3 @@ Reviewed yearly purchase patterns, collected bank and trade references, and eval
 
 Prepared legal documents such as a Writ of Execution or Abstract of Judgment using Prodoc, a legal form software; Mailed out legal notices such as Notice to Pay Rent or Quit or Notice of Right to Reclaim;  Scheduled the serving of notices by contacting different process servers pertaining to each county in Southern California; Organization and maintenance of over 1,200 client files; Prepared and filed legal documents via online or through attorney services; Calendered deadlines and dates in ProLaw, a complex litigation software management program; Tracking and posting of all costs and payments through the Tussman billing program; Manually billed the clients monthly with specific instructions from individual clients while reviewing each invoice for any billing errors; Management of Constant Contact, a marketing communication program, used to alert clients of promotional events and/or educational seminars; Prepared marketing and educational materials for client legal seminars
 
-## Projects 
-
-**Bike-Share Analysis Using R and Tableau** 
-
-[Publication](https://rpubs.com/tseung94/1187589)
-
-Analyzed data for a fictional bike-share company using real world primary data from Divvy. The task was to transform the data into useable analysis in order to gather insight on rider patterns and preferences; this analysis would then provide the fictional company with deliverable actions that can be taken to convert casual riders into annual members. The anaylsis was completed using R and Tableau to share the findings via data visualization. 
