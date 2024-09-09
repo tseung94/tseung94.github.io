@@ -34,6 +34,12 @@ Analyzed data for a fictional bike-share company using real world primary data f
 
 Bellabeat is a company that specialized in health-focused smart products. It has an application that measures users data on activity, sleep, stress, menstrual cycle, and mindfulness habits. I have been tasked as a junior data analyst on the marketing analytics team to gain insight on how users are using their device. I identified trends of Bellabeat users to make recommendations for improvements on the application alongside marketing strategies to increase customer satisfaction and outreach. 
 
+**Global iPhone Market Share Analysis using Python**
+
+![image](https://github.com/user-attachments/assets/306bf778-0c54-487d-9b8c-0012dcb232be)
+
+[Publication]()
+
 ## Work Experience 
 
 **Accounts Receivable/Account Manager @ Ta Chen, International, Long Beach, CA (_June 2018 to Present_)**
