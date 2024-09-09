@@ -38,7 +38,9 @@ Bellabeat is a company that specialized in health-focused smart products. It has
 
 ![image](https://github.com/user-attachments/assets/306bf778-0c54-487d-9b8c-0012dcb232be)
 
-[Publication]()
+[Publication](https://github.com/tseung94/python_car_market/)
+
+Analyzed the dataset for the market share of iPhone and iOS to identify patterns that can be used to determine production volumes for iPhones for the next fiscal year. This dataset also provided data for the number of iPhone users both in the US and global market. It also contained the amount of iPhones purchased in both markets. All these data were used to determine the best strategy for Apple to continue its dominance over the smart phone market. 
 
 ## Work Experience 
 
